@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nike-purchase/static/css/main.16c713ae.css",
+    "main.js": "/nike-purchase/static/js/main.644d27b1.js",
+    "index.html": "/nike-purchase/index.html",
+    "main.16c713ae.css.map": "/nike-purchase/static/css/main.16c713ae.css.map",
+    "main.644d27b1.js.map": "/nike-purchase/static/js/main.644d27b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16c713ae.css",
+    "static/js/main.644d27b1.js"
+  ]
+}
